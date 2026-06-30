@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤斧赤斧者巴戎人也為碧雞祠主簿能作水煉丹與硝石服之三十年反如童子毛髮生皆赤後數十年上華山取禹餘糧餌賣之於蒼梧湘江間累世傳見之手掌中有赤斧焉赤斧頤真發秀戎巴寓跡神祠澒煉丹砂發雖朱蕤顏曄丹葩採藥靈山觀化南遐
+  hash: sha256:ef2b4e5bbec891e27dcad3729809d91a15020543a235c5127cf6a3d969413170
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_060-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:78789f2a32c2832950c1dba9459c5f923d3d830fbe07dba7e7f2f97af3e44a67

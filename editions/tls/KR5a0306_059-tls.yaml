@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/59
+seq: 59
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陶安公陶安公者六安鑄冶師也數行火火一旦散上行紫色沖天安公伏冶下求哀須臾朱雀止冶上曰安公安公治與天通七月七日迎汝以赤龍至期赤龍到大雨而安公騎之東南上一城邑數萬人眾共送視之皆與辭決云安公縱火紫炎洞熙翩翩朱雀銜信告時奕奕朱虯蜿然赴期傾城仰覿回首顧辭
+  hash: sha256:ac7ae6b62da0255e1fb8ae52690373e9433eb940d28c350a42a6c9fd5891f12b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_059-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:dfef6606e4d107681418db8b9d71080d712917801321ed239fc56b5a885f063a

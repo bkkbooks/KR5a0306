@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陵陽子明陵陽子明者鄉人也好釣魚於旋溪釣得白龍子明懼解鉤拜而放之後得白魚腹中有書教子明服食之法子明遂上黃山采五石脂沸水而服之三年龍來迎去止陵陽山上百餘年山去地千餘丈大呼下人令上山半告言中子安當來問子明釣車在否後二十餘年子安死人取葬石山下有黃鶴來棲其冢邊樹上鳴呼子安云陵陽垂釣白龍銜鉤終獲瑞魚靈述是修五石溉水騰山乘虯子安果沒鳴鶴何求
+  hash: sha256:a801668263c5f74f47bc364b2f34824cf953c118541e4cf66ce4bb56a98888ae
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_066-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:204cbd9f529718a865f1411ad1df2d7e2bcea68f4be848ec758be01c14d907c8

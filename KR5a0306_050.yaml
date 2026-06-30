@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山圖山圖者隴西人也少好乘馬馬踏之折腳山中道人教令服地黃當歸羌活獨活苦參散服之一歲而不嗜食病愈身輕追道人問之自言五嶽使之名山採藥能隨吾使汝不死山圖追隨之六十餘年一旦歸來行母服于家間期年復去莫知所之山圖抱患因毀致金受氣使身藥輕命延寫哀墳柏天愛猶纏數周高舉永絶俗緣
+  hash: sha256:19128703c61f2e7e279daf72ba8759596012661c084a72962e81d895041e96f4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_050-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:1e9a623267ba968fe1a3d58132801a3fddfb1a905f30e70a1b8914be90987725

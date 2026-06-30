@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/45
+seq: 45
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 主柱主柱者不知何所人也與道士共上宕山言此有丹砂可得數萬斤宕山長吏知而上山封之砂流出飛如火乃聽柱取為邑令章君明餌砂三年得神砂飛雪服之五年能飛行遂與柱俱去云主柱同窺道士精徹玄感通山丹砂出穴熒熒流丹飄飄飛雪宕長悟之終然同悅
+  hash: sha256:09271d95430d6bcbf5b3df7f801d0f635b790891fe5245dc9e313f3a8d20c328
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_045-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:2acc8a865784476647cbc245491a12e625c92fe0436904214dc2c53b6cae61a7

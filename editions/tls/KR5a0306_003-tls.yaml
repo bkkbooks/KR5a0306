@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤將子輿赤將子輿者黃帝時人不食五穀而噉百草花至堯帝時為木工能隨風雨上下時時於市中賣繳亦謂之繳父云蒸民粒食熟享遐祚子輿拔俗餐葩飲露託身風雨遙然矯步雲中可遊性命可度
+  hash: sha256:2a28ee5ebfe6df18be9715c66489057e518f84f9f10840aa310f83d4d46d1c34
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_003-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:700b8b023718e7c10c5936f5b30492d9247790db81c67db14ec68b2f56528125

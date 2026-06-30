@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 祝雞翁祝雞翁者洛人也居尸鄉北山下養雞百餘年雞有千餘頭皆立名字暮棲樹上晝放散之欲引呼名即依呼而至賣雞及子得千餘萬輒置錢去之吳作養魚池後升吳山白鶴孔雀數百常止其傍云人禽雖殊道固相關祝翁傍通牧雞寄歡育鱗道洽棲雞樹端物之致化施而不刊
+  hash: sha256:fa0ff12d8b51ae79131d65074c5b9d61719a79cfe37813c3de285bffaa47ea73
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_035-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:ce0553cf445c95bd8d51d8dcf687e775e396bec335e107fad8b6f2ad98c9efd8

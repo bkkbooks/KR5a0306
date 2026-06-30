@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 瑕丘仲瑕丘仲者寧人也賣藥於寧百餘年人以為壽矣地動舍壞仲及里中數十家屋臨水皆敗仲死民人取仲屍棄水中收其藥賣之仲披裘而從詣之取藥棄仲者懼叩頭求哀仲曰恨汝使人知我耳吾去矣後為夫餘胡王驛使復來至寧北方人謂之謫仙人焉瑕丘通玄謫脫其跡人死亦死泛焉言惜遨步觀化豈勞胡驛苟不睹本誰知其謫
+  hash: sha256:7eea91adb6c224a1b1ca9bf641b5f861715e07a3c9b537d69d807032109f5907
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_031-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:a191294789ee8499057b8584d6ae75a4812e839b3e9ac3246b1360f2eeaf8f19

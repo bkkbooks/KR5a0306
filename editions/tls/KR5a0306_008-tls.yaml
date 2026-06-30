@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老子老子姓李名耳字伯陽陳人也生於殷時為周柱下史好養精氣貴接而不施轉為守藏史積八十餘年史記云二百餘年時稱為隱君子諡曰聃仲尼至周見老子知其聖人乃師之後周德衰乃乘青牛車去入大秦過函關關令尹喜待而迎之知真人也乃強使著書作道德經上下二卷老子無為而無不為道一生死跡入靈奇塞兑內鏡冥神絕涯德合元氣壽同兩儀
+  hash: sha256:f1292f00c9acd02277ca836d0182ef18630cf59785ed0643b7b8907103bee7cc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_008-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:b4fa55e4c8cac710a0a50259e23c20f50d423c97592585c15f3615b37e4df819

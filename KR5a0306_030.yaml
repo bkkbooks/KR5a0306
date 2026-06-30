@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 桂父桂父者象林人也色黑而時白時黃時赤南海人見而尊事之常服桂及葵以龜腦和之千丸十斤桂纍世見之今荊州之南尚有桂丸焉偉哉桂父挺直遐畿靈葵內潤丹桂外綏怡怡柔顏代代同輝道播東南奕世莫違
+  hash: sha256:cef0e7ac3e95241174bff7edd616c078ed72c9f3fc90204a866aeadbb10acba4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_030-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:cdb7530b416d564ab9f0304228d79aefb446b99582209126f3300ceb246d667a

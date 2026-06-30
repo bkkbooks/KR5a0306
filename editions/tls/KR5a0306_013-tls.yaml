@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 師門師門者嘯父弟子也亦能使火食桃李葩為夏孔甲龍師孔甲不能順其意殺而埋之外野一旦風雨迎之訖則山木皆焚孔甲祠而禱之還而道死師門使火赫炎其勢乃豢虯龍潛靈隱惠夏王虐之神存質斃風雨既降肅爾高逝
+  hash: sha256:cd7a6561b2b5f8bff1618f3b8031114b4bfe1cf0679d8dee7bd75f6af57e843e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_013-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:3dc370aa533acd6351efd1d460511a4fc79e56a6a9e80d841940d483dc9b5253

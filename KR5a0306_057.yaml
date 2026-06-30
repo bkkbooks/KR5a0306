@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/57
+seq: 57
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商丘子胥商丘子胥者高邑人也好牧豕吹竽年七十不娶婦而不老邑人多奇之從受道問其要言但食朮菖蒲根飲水不饑不老如此傳世見之三百餘年貴戚富室聞之取而服之不能終歲輒止慢矣謂將復有匿術也商丘幽棲韞櫝妙術渴飲寒泉饑茹蒲朮吹竽牧豕卓犖奇出道足無求樂茲永日
+  hash: sha256:3bff50a65a3ab2df56958d93fceb2d64aa66dea3e9c28a387145713075ca906d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_057-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:418ec7e6b4a06522c4ebe0c3310ae1d234ba9928b37bececb5f6b86493cbc4cb

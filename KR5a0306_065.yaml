@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 女丸女丸者陳市上沽酒婦人也作酒常美遇仙人過其家飲酒以素書五卷為質丸開視其書乃養性交接之術丸私寫其文要更設房室納諸年少飲美酒與止宿行文書之法如此三十年顏色更如二十時仙人數歲復來過笑謂丸曰盜道無私有翅不飛遂棄家追仙人去莫知所之云玄素有要近取諸身鼓聃得之五卷以陳女丸蘊妙仙客來臻傾書開引雙飛絶塵
+  hash: sha256:3bcf3e3fc63d30224e5941986bcef5bbd5b41fe1c4dc30c2f3e3a31b974297c3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_065-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:c0209382ebef7fc993c151cd2f1bcd1556d4092284ee08f1ce70b6a1f99fb2d6

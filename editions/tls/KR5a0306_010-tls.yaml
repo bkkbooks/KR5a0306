@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 涓子涓子者齊人也好餌朮接食其精至三百年乃見於齊著天人經四十八篇後釣於荷澤得鯉魚腹中有符隱於宕山能致風雨受伯陽九仙法淮南山安少得其文不能解其旨也其琴心三篇有條理焉涓老餌朮享茲遐紀九仙既傳三才乃理赤鯉投符風雨是使拊琴幽岩高棲遐峙
+  hash: sha256:ac6befff98aa4ab8f6e390b79ca9d4553833583b36a6b68a1ea414c111af2849
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_010-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:7d5fd6ed7b169f69975d3365082369491d2a9cffe6b6834795c588e3c923d7b2

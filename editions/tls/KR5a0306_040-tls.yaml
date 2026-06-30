@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤鬚子赤鬚子豐人也豐中傳世見之云秦穆公時主魚吏也數道豐界災害水旱十不失一臣下歸向迎而師之從受業問所長好食松實天門冬石脂齒落更生髮墮再出服霞絕後遂去吳山下十餘年莫知所之赤鬚去豐爰憩吳山三藥並御朽貌再鮮空往師之而無使延顧問小智豈識巨年
+  hash: sha256:b492b0415d0e47b745351e42d4e814b255b9ff6ea40418738970f8ffafbc2d96
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_040-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:85872aaa94d64466039501426e32c99e3bb99837739dee36829b1256f550dbcb

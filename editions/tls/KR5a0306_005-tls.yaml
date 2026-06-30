@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 偓佺偓佺者槐山採藥父也好食松實形體生毛長數寸兩目更方能飛行逐走馬以松子遺堯堯不暇服也松者簡松也時人受服者皆至二三百歲焉偓佺餌松體逸眸方足躡鸞鳳走超騰驤遺贈堯門貽此神方盡性可辭中智宜將
+  hash: sha256:7550d4411f16f13a066a2ef6582b342cc26f09f70df2165b511d3709e88fd818
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_005-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:bf34ce004d62fa2d88d4d66c249978a0319660cd65d3f8c0cc29b20e822a0b58

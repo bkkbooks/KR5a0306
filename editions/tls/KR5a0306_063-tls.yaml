@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/63
+seq: 63
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朱璜朱璜者廣陵人也少病毒瘕就睢山上道士阮丘丘憐之言卿除腹中三尸有真人之業可度教也璜曰病癒當為君作客三十年不敢自還丘與璜七物藥日服九丸百日病下如肝脾者數斗養之數十日肥健心意日更開朗與老君黃庭經令日讀三過通之能思其意丘遂與璜俱入浮陽山玉女祠且八十年復見故處白髮盡黑鬢更長三尺餘過家食止數年復去如此至武帝末故在焉朱璜寢瘕福祚相迎真人投藥三屍俱靈心虛神瑩騰贊幽冥毛赬髮黑超然長生
+  hash: sha256:71644f24fe3235bd301cdda7791b4e58cf57fa634fb91dc7948a864d8c94ede8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_063-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:5171ed51ce158a1cd011ef9bf834478b589736cc1e601a9bbacd681f7f867e1d

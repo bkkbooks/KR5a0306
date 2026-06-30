@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 范蠡范蠡字少伯徐人也事周師太公望好服桂飲水為越大夫佐勾踐破吳後乘舟入海變名姓適齊為鴟夷子更後百餘年見於陶為陶朱君財纍億萬號陶朱公後棄之蘭陵賣藥後人世世識見之范蠡御桂心虛志遠受業師望載潛載惋龍見越鄉功遂身返屣脫千金與道舒卷
+  hash: sha256:78005534254446bbaffd1e80f647e825e23a26b302d992b610981195677f858e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_024-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:13f9c68f9ff06d3d77105d6da32d612821693e9ec17b083c98c82ba1aec5a533

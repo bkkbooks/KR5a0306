@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬師皇馬師皇者黃帝時馬醫也知馬形生死之診治之輒愈後有龍下向之垂耳張口皇曰此龍有病知我能治乃其下口中以甘草湯飲之而愈後數數有龍出其波告而求治之一旦龍負皇而去師皇典馬廄無殘駟精感群龍術兼殊類靈虯報德彌鱗銜轡振躍天漢粲有遺蔚
+  hash: sha256:0d010e05179aa81559983f934313a3c3359a99fb19aa429c768ef6566f71f91e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_002-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:2e85d9ad6f60ac996b06524be7cc0ab296bde25948b49df433e6a9aab68fb425

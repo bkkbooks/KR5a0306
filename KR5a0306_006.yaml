@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 容成公容成公者自稱黃帝師見於周穆王能善輔導之事取精於玄牝其要谷神不死守生養氣者也髮白更黑齒落更生事與老子同亦云老子師也亹亹容成專氣致柔得一在昔含光獨游道貫黃庭伯陽仰儔玄牝之門庶幾可求
+  hash: sha256:5becfe221d60684302107ea9b8f291c95c5288f75964085e3d51c5c44cabd40c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_006-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:71c5f12e71d2e9523749cc393b9be727e9e324701c3ac2d59384041b32a3814f

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子英子英者舒鄉人也善入水捕魚得赤鯉愛其色好持歸著池中數以米穀食之一年長丈餘遂生角有翅翼子英怪異拜謝之魚言我來迎汝汝上背與汝俱升天即大雨子英上其魚背騰升而去歲歲來歸故舍食飲見妻子魚復來迎之如此七十年故吳中門戶皆作神魚遂立子英祠子英樂水游捕為職靈鱗來赴有煒厥色養之長之挺角傅翼遂駕雲螭超步虓央
+  hash: sha256:f256e0997efd0dbb1b7629375ab548a008ccfce8b019c2bea1bcb8876da9ccf7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_054-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:01f9d5e5c7784a5ef332556623cd6245c096507568f3a255fe753a01eae14252

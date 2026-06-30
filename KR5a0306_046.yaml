@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 園客園客者濟陰人也姿貌好而性良邑人多以女妻之客終不取常種五色香草積數十年食其實一旦有五色蛾止其香樹末客收而薦之以布生桑蠶焉至蠶時有好女夜至自稱客妻道蠶狀客與俱收蠶得百二十頭繭皆如甕大繅一繭六十日始盡訖則俱去莫知所在故濟陰人世祠桑蠶設祠室焉或云陳留濟陽氏美哉園客顏曄朝華仰吸玄精俯捋五葩馥馥芳卉采采文蛾淑女宵降配德升遐
+  hash: sha256:67176fb7edb2d1fabf5f9140b0d9b1b13324369d7b542054c7bc98ae0cc09a61
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_046-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:2676031faeb89234d0be461d2375f57006c799abee81a1d52f3683204e016436

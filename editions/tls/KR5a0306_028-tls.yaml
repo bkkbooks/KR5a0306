@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幼伯子幼伯子者周蘇氏客也冬常著單衣盛暑著襦形貌穢異後數十年更壯時人莫知世世來誡佑蘇氏子孫得其福力也周客戢容泯跡泥盤夏服重纊冬振輕紈作不背本義不獨安乃眷周氏祐其艱難
+  hash: sha256:62891484f80643b62d23ff4d22c00028b794d54b91c29a330c63d76fcecd8c4b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_028-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:61e3649302de28030b5bde7890ef1328dcf7748d73dd7be32d75a86c8b987686

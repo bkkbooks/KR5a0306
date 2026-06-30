@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 稷丘君稷丘君者泰山下道士也武帝時以道術受賞賜髮白再黑齒落更生後罷去上東巡泰山稷丘君乃冠章甫衣黃衣擁琴來迎拜武帝指帝陛下勿上也上必傷足指及數里右足指果折上諱之故但祠而還為稷丘君立祠焉為稷承奉之云稷丘洞徹修道靈山煉形濯質變白還年漢武行幸攜琴來延戒以升陟逆睹未然
+  hash: sha256:df49d31ed3592882d84aef0da438e6c45d157868948b84fae022bbb0d614f7a1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_038-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:a48cd312e0cf5075acb2cc394cbc968e4a8816e22286914453dcb96b984b0458

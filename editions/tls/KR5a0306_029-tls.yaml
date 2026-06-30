@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 安期先生安期先生者瑯琊阜鄉人也賣藥於東海邊時人皆言千歲翁秦始皇東遊請見與語三日三夜賜金璧度數千萬出於阜鄉亭皆置去留書以赤玉舄一雙為報曰後數年求我於蓬萊山始皇即遣使者徐市盧生等數百人入海未至蓬萊山輒逢風波而還立祠阜鄉亭海邊十數處云寥寥安期虛質高清乘光適性保氣延生聊悟秦始遺寶阜亭將游蓬萊絕影清泠
+  hash: sha256:4f26b372c8a4cbf7f749082e7aecefbd7cfb366882cc59a7b1802f33de084d0f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_029-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:b02de7ee063b0909e1cfe4ad74df36455cba13e51e54d720024bd7a7e6bb837d

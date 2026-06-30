@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬丹馬丹者晉耿之人也當文侯時為大夫至獻公時復為幕府正獻公滅耿殺恭太子丹乃去至趙宣子時乘安車入晉都候諸大夫靈公欲仕之逼不以禮有迅風發屋丹入回風中而去北方人尊而祠之馬丹官晉與時汙隆事文去獻顯沒不窮密網將設從禮迅風杳然獨上絶跡玄宮
+  hash: sha256:5f430470b475c39e03b7378800a7443ba8e8f4f27f6b4faa620dfc42110eb3d0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_019-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:84efe80f31b8c1a560dae13925a4fc8b01f9f18148f76734c964a2df8080ce1b

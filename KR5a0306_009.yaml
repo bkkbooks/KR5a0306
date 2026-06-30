@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 關令尹關令尹喜者周大夫也善內學常服精華隱德修行時人莫知老子西遊喜先見其氣知有真人當過物色而遮之果得老子老子亦知其奇為著書授之後與老子俱游流沙化胡服苣勝實莫知其所終尹喜亦自著書九篇號曰關令子尹喜抱關含德為務挹漱日華仰玩玄度候氣真人介焉獨悟俱濟流沙同歸妙處
+  hash: sha256:8a490a74c6cf7cd68655ee68a016e21100e204eb865c535ce93ce49921d8cd07
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_009-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:364548ebdf323b3b27b08c56b72326f0b8cc5ab315242f4bbf2bb5f163d38f19

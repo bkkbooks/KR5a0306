@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 犢子犢子者鄴人也少在黑山採松子茯苓餌而服之且數百年時壯時老時好時醜時人乃知其仙人也常過酤酒陽都家陽都女者市中酤酒家女眉生而連耳細而長眾以為異皆言此天人也會犢子牽一黃犢來過都女悅之遂留相奉侍都女隨犢子出取桃李一宿而返皆連兜甘美邑中隨伺逐之出門共牽犢耳而走人不能追也且還復在市中數十年乃去見潘山下冬賣桃李云犢子山棲採松餌苓妙氣充內變白易形陽氏奇表數合理冥乃控靈犢倏若電征
+  hash: sha256:f96ee5fdcb3fb725603c3d162690d7fd6e9e3ed36599007f23d439ac5a336a7f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_043-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:8b88a546b5557c66a29f4fd71d0970051f017e382743a33f4fd8d621521eacaa

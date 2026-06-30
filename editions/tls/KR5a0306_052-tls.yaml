@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陰生陰生者長安中渭橋下乞兒也常止於市中乞市人厭苦以糞灑之旋復在裡中衣不見污如故長吏知之械收係著桎梏而續在市中乞又械欲殺之乃去灑者之家室自壞殺十餘人故長安中謠曰見乞兒與美酒以免破屋之咎陰生乞兒人厭其黷識真者稀累見囚辱淮陰忘吝況我仙屬惡肆殃及自災其屋
+  hash: sha256:203c071366fce539b309bc29374b5d3438b772e5a2e5a2a2249b5092f6bed183
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_052-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:78e796de1f2374d0933514f4bddcecd69cda67b2bb5c3a2a4d029ea149b6a096

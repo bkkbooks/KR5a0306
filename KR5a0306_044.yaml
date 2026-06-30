@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 騎龍鳴騎龍鳴者渾亭人也年二十於池中求得龍子狀如守宮者十餘頭養食結草廬而守之龍長大稍稍而去後五十餘年水壞其廬而去一旦騎龍來渾亭下語云馮伯昌孫也此間人不去五百里必當死信者皆去不信者以為妖至八月果水至死者萬計騎鳴養龍結廬虛池專至俟化乘雲驂螭紆轡故鄉告以速移洞鏡災祥情眷不離
+  hash: sha256:bf28d3ac16ad2e7c9b2a2924596cf4587b60affdc988e32ea985b42abc9daeee
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_044-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:606941704e31ca8f3bd9e763708d073d7a252c2b54311db913e06a98c3b884d1

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 谿父谿父者南郡鄘人也居山間有仙人常止其家從買瓜教之煉瓜子與桂附子芷實共藏而對分食之二十餘年能飛走升山入水後百餘年居絕山頂呼谿下父老與道平生時事云谿父何欲欲在幽谷下臨清澗上翳委蓐仙客舍之導以秘篆形絕埃心在舊俗
+  hash: sha256:04e92a51bf66838409f589f1c9ced39728d3dbc259773e96757ecb61f915b35d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_049-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:a7bf46fbce3fa3a8083a57accc753ad4ab2c402d0dbca6ddc6959c8604a6988d

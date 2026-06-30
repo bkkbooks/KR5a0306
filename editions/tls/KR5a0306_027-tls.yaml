@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 王子喬王子喬者周靈王太子晉也好吹笙作鳳凰鳴游伊洛之間道士浮丘公接以上嵩高山三十餘年後求之於山上見桓良曰告我家七月七日待我於緱氏山巔至時果乘白鶴駐山頭望之不得到舉手謝時人數日而去亦立祠於緱氏山下及嵩高首焉妙哉王子神遊氣爽笙歌伊洛擬音鳳響浮丘感應接手俱上揮策青崖假翰獨往
+  hash: sha256:4a1f07e1d326a6e3cf45c1fcccf9b5910f6144cc02c652ff9b8cc6c166126f00
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_027-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:8787fd9952d4c462c5cfd77d29d3ddf1216d2bfb3a77cb972f0d66402fe63826

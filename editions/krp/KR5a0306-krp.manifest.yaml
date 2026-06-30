@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR5a0306/krp/v1
+canonical_location: https://kanripo.org/bkk/KR5a0306/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 列仙傳
+  date: '2015-08-28 23:44:38.058884'
+  source:
+    repository: kanripo
+    path: KR5a0306
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  base_edition: HFL
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0306_000-krp.yaml, hash: 'sha256:3de8bb1ce82bc21059774b064849999485a3296e1592a24bd64429e3fa19d117'}
+  - {seq: 1, filename: KR5a0306_001-krp.yaml, hash: 'sha256:1540ff56dc3579f2be6b72184a090dd46e51e1fe42f0cecb699cde65e7bb1d12'}
+  - {seq: 2, filename: KR5a0306_002-krp.yaml, hash: 'sha256:948f44f135335e4cbae248c9e7b0146cdaab011dd07efbcee82a5c59b354a254'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0306_000-krp.markers.yaml, hash: 'sha256:21a6b3b60fb344d4a7078868806cc51f38fa72c35730ae4a964dbfb9ea4d28cb'}
+  - {seq: 1, role: markers, filename: assets/KR5a0306_001-krp.markers.yaml, hash: 'sha256:96435729f12564fd7a6b05433f83f7fdea5be9bcfa3264e7b4ac2c56ee8cf654'}
+  - {seq: 2, role: markers, filename: assets/KR5a0306_002-krp.markers.yaml, hash: 'sha256:a9dd3b3939e02f088988475b6554eef3a1550704c0e55cc66fba2fa84d46cfc1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0306_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 4820
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0306_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 4609
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:40bc0d5bf31813052c3c6beb90e52a6eb8b44f81ec9fe787cb780435d2a58d02

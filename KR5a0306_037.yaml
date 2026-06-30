@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 修羊公修羊公者魏人也在華陰山上石室中有懸石榻臥其上石盡穿陷略不食時取黃精食之後以道干景帝帝禮之使止王邸中數歲道不可得有詔問修羊公能何日發語未訖牀上化為白羊題其脅曰修羊公謝天子後置石羊於靈台上羊後復去不知所在卓矣修羊韜奇含靈枕石太華餐茹黃精漢禮雖隆道非所經應變多質忽爾隱形
+  hash: sha256:84b3d515552dca98ca00cab007b39ded45b4a610fa416429c72173c024a0319b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_037-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:c24ba6e46091a7045f0c096b5aaa63348b9b50138d01d831818f51c3028a4bb0

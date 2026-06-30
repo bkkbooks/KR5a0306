@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昌容昌容者常山道人也自稱殷王子食蓬根往來上下見之者二百餘年而顏色如二十許人能致紫草賣與染家得錢以遺孤寡歷世而然奉祠者萬計殷女忘榮曾無遺戀怡我柔顏改華標蒨心與化遷日與氣煉坐臥奇貨惠及孤賤
+  hash: sha256:44a50bf1a6220e345d084f1be5d0ca55561d3994fbff417595aa92bd90eba1be
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_048-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:17b5b361e953a20172bad305b2e4f7bd0d4d81e83cc4827f18d277f7b5d3144c

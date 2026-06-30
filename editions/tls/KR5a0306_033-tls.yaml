@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任光任光者上蔡人也善餌丹賣於都市里間積八十九年乃知是故時任光也皆說如數十歲面顏後長老識之趙簡子聘與俱歸常在桓梯山上三世不知所在晉人常服其丹也上蔡任光能煉神丹年涉期頤曄爾朱顏頃適趙子縱任所安升軌桓梯高飛雲端
+  hash: sha256:2ba24acbeb05dc456555aea0b9a13793aaca96c42b2ff9bccfe7ee48238540bc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_033-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:fe299e68bf9d2ee1b9751b19bdc2bd783eea91b3d3afd50ad395549863a197a8

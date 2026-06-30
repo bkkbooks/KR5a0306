@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 務光務光者夏時人也耳長七寸好琴服蒲韭根殷湯將伐桀因光而謀光曰非吾事也湯曰孰可曰吾不知也湯曰伊尹何如曰強力忍詬吾不知其他湯既克桀以天下讓於光曰智者謀之武者遂之仁者居之古之道也吾子胡不遂之光辭曰廢上非義也殺人非仁也人犯其難我享其利非廉也吾聞非義不受其祿無道之世不踐其位況於尊我我不忍久見也遂負石自沉於蓼水已而自匿後四百餘歲至武丁時復見武丁欲以為相不從逼不以禮遂投浮梁山後游尚父山務光自仁服食養真冥遊方外獨步常均武丁雖高讓位不臣負石自沉虛無其身
+  hash: sha256:8aaf9ed7dbe673c91ebadab7e7f90af58fc324bc8881daaedd357b1126035b28
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_014-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:cf5e5ec167b89afae850d17dd9a6877a5ce5c71035df1596bbdbf1f02a1a2eb9

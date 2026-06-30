@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 簫史簫史者秦穆公時人也善吹簫能致孔雀白鶴於庭穆公有女字弄玉好之公遂以女妻焉日教弄玉作鳳鳴居數年吹似鳳聲鳳凰來止其屋公為作鳳台夫婦止其上不下數年一旦皆隨鳳凰飛去故秦人為作鳳女祠於雍宮中時有簫聲而已簫史妙吹鳳雀舞庭嬴氏好合乃習鳳聲遂攀鳳翼參翥高冥女祠寄想遺音載清
+  hash: sha256:7c0b49fd554a850fbfae869287e0a25434a37211cb8a4a36926991a365e1242c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_034-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:7a3284e36ac0e118cc624c4b6d6f25dae8911f409c47fb521abd645e6bf29d11

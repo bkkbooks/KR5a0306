@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 邛疏邛疏者周封史也能行氣煉形煮石髓而服之謂之石鐘乳至數百年往來入太室山中有臥石牀枕焉八珍促壽五石延生邛疏得之煉髓餌精人以百年行邁身輕寢息中嶽游步仙庭
+  hash: sha256:f09ea633f406bb133c1c19168c637bebd60edea0cabad2ba850a68cc727dafa7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_017-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:f8cdfce1b25a504e6b72ac715a1b40a82fce1e8cc4b9c891536d4f932ae24383

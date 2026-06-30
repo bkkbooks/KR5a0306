@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彭祖彭祖者殷大夫也姓籛名鏗帝顓頊之孫陸終氏之中子歷夏至殷末八百餘歲常食佳芝善導引行氣歷陽有彭祖仙室前世禱請風雨莫不輒應常有兩虎在祠左右祠訖地即有虎跡雲後升仙而去遐哉碩仙時唯彭祖道與化新綿綿歷古隱倫玄室靈著風雨二虎嘯時莫我猜侮
+  hash: sha256:f02519eebcc69e52c86ade8ae8523f55b295648f4c6ccf38f3843f3ba0c44511
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_016-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:dd528653797a763fb59d324fc8824efaf1254580ea30bd085ef62d6680017088

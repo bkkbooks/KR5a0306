@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陸通陸通者雲楚狂接輿也好養生食橐廬木實及蕪菁子游諸名山在蜀峨嵋山上世世見之歷數百年去接輿樂道養性潛輝風諷尼父諭以鳳衰納氣以和存心以微高步靈嶽長嘯峨嵋
+  hash: sha256:55a9b480e8804df36b3c732d3e618bc74124b01db7a47c5144f4670765fdf822
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_021-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:5885f3ea86985e5583ef455b2c90ca6af332fc873e7e0085fef3220aaaea0bc5

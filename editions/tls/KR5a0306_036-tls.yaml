@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朱仲朱仲者會稽人也常於會稽市上販珠漢高後時下書募三寸珠仲讀購書笑曰直值汝矣齎三寸珠詣闕上書珠好過度即賜五百金魯元公主復私以七百金從仲購珠仲獻四寸珠送置於闕即去下書會稽徵聘不知所在景帝時復來獻三寸珠數十枚輒去不知所之云朱仲無欲聊寄賈商俯窺驪龍捫此夜光發跡會稽曜奇咸陽施而不德歷世彌彰
+  hash: sha256:c4ad3295dd4609afdc642b27413ad1cff1a34c7907d409aab6a1aaa6fbc5a9f8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_036-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:f2ccbba5872d36d294fe9f17afbb0bf5c10d24e47afa369d050d159caf6e34f4

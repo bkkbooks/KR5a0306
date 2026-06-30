@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 邗子邗子者自言蜀人也好放犬子時有犬走入山穴邗子隨入十餘宿行度數百里上出山頭上有台殿宮府青松樹森然仙吏侍衛甚嚴見故婦主洗魚與邗子符一函並藥便使還與成都令喬君喬君發函有魚子也著池中養之一年皆為龍形復送符還山上犬色更赤有長翰常隨邗子往來百餘年遂留止山上時下來護其宗族蜀人立祠於穴口常有鼓吹傳呼聲西南數千里共奉祠焉邗子尋犬宕入仙穴館閣峨峨青松列列受符傳藥往來交結遂棲靈岑音響昭徹
+  hash: sha256:4aec7dfd933aa0ed3b5eaed004b2ca8a106f1f15d4bf226e4bb85176e0b72452
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_067-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:48ec6ebfb8ec8dca76914c67e4149a2c4735f389d853e7a10a070ecd0c68bf18

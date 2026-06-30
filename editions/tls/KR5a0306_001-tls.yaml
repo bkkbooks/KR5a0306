@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寧封子寧封子者黃帝時人也世傳為黃帝陶正有人過之為其掌火能出五色煙久則以教封子封子積火自燒而隨煙氣上下視其灰燼猶有其骨時人共葬於寧北山中故謂之寧封子焉奇矣封子妙稟自然鑠質洪爐暢氣五煙遺骨灰燼寄墳寧山人睹其跡惡識其玄
+  hash: sha256:a2380cffe160df1f14f47082dc31af887174607a36d62d552f02ce6cedf4d5f6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_001-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:43647908a0aafee807adaa567586ac5cab4a4d8eff99a67b12ae20cecd6d7af7

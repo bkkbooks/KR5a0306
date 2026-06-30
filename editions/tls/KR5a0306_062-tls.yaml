@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 負局先生負局先生者不知何許人也語似燕代間人常負磨鏡局徇吳市中磨鏡一錢因磨之輒問主人得無有疾苦者輒出紫丸藥以與之得者莫不癒如此數十年後大疫病家至戶到與藥活者萬計不取一錢吳人乃知其真人也後住吳山絕崖頭懸藥下與人將欲去時語下人曰吾還蓬萊山為汝曹下神水崖頭一旦有水白色流從石間來下服之多愈疾立祠十餘處負局神端披褐含秀術兼和鵲心托宇宙引彼萊泉灌此絕岫欲返蓬山以齊天壽
+  hash: sha256:94ba9712b2e4ffafb0e233bae626b349111873b7b0c16e11eaf6e44fff16b4bc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_062-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:0429eca63f2fa7de4235ca3e5a485ce5a323a7c4e992672b1148c0bb3c55ea58

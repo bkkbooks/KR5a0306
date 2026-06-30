@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子主子主者楚語而細音不知何所人也詣江都王自言寧先生雇我作客三百年不得作直以為狂人也問先生所在雲在龍眉山上王遣吏將上龍眉山巔見寧先生毛身廣耳被髮鼓琴主見之叩頭吏致王命先生曰此主吾比舍九世孫且念汝家當有暴死女子三人勿預吾事語竟大風發吏走下山比歸宮中相殺三人王遣三牲立祠焉子主挺年理有所資寧主祠秀拊琴龍眉以道相符當與訟微匡事竭力問昭我師
+  hash: sha256:39e529f8cd1c0b7db5470ea38bcaee949ebe4c8ae4c4c812822ca2aad4b0438c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_058-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:9ad8b4352ae1cc23c1936bcb408c0aaf79ae26f0befa10c6f5fde723f9cc1f3c

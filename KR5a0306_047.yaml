@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鹿皮公鹿皮公者淄川人也少為府小吏木工舉手能成器械岑山上有神泉人不能至也小吏白府君請木工斤斧三十人作轉輪懸閣意思橫生數十日梯道四間成上其巔作祠舍留止其旁絶其二間以自固食芝草飲神泉且七十年淄水來三下呼宗族家室得六十餘人令上山半水盡漂一郡沒者萬計小吏乃辭遣宗家令下山著鹿皮衣遂去復上閣後百餘年下賣藥於市皮公興思妙巧纏綿飛閣懸趣上揖神泉肅肅清廟二間愔愔可以閒處可以永年
+  hash: sha256:496a669b937a74802fc5a7df91ea47e21130adc05d89a9339344b5b83c1e95ca
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_047-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:15b215b119459f184301d338cd37236f689d1ef386c12d22f249354a0a5057a0

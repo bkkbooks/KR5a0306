@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/39
+seq: 39
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 崔文子崔文子者太山人也文子世好黃老事居潛山下後作黃散赤丸成石父祠賣藥都市自言三百歲後有疫氣民死者萬計長吏之文所請救文擁朱幡係黃散以徇人門飲散者即愈所活者萬計後去在蜀賣黃散故世寶崔文子赤丸黃散實近於神焉崔子得道術兼祕奧氣癘降喪仁心攸悼朱幡電麾神藥捷到一時獲全永世作效
+  hash: sha256:ad795d75806bd980e35182a410d2bbbfb836e26311982f8cbbe49bab255da08c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_039-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:3816035ab35f70d3ca961cb860b1f5ad7b9231ee6ae988ec54854a449e0a2370

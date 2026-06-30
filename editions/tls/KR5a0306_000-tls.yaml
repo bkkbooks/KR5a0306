@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤松子赤松子者神農時雨師也服水玉以教神農能入火自燒往往至崑崙山上常止西王母石室中隨風雨上下炎帝少女追之亦得仙俱去至高辛時復為雨師今之雨師本是焉眇眇赤松飄飄少女接手翻飛泠然雙舉縱身長風俄翼玄圃妙達巽坎作範司雨
+  hash: sha256:f64582165023523f66e9eb7c72b010e245a871cc012ea3c334052478252be984
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_000-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:b77728fe9b62bc07c3405f12a1364eab975778abb95f34de44166fe3fc54a056

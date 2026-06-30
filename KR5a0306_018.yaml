@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 介子推介子推者姓王名光晉人也隱而無名悅趙成子與游旦有黃雀在門上晉公子重耳異之與出居外十餘年勞苦不辭及還介山伯子常晨來呼推曰可去矣推辭母入山中從伯子常游後文公遣數千人以玉帛禮之不出後三十年見東海邊為王俗賣扇後數十年莫知所在王光沉默享年遐久出翼霸君處契玄友推祿讓勤何求何取遁影介山浪跡海右
+  hash: sha256:cd290ae3c85d9e57c402eac725185111045032948609cc3caf463b7d5192f49a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_018-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:d9ad4c288b4ab7c4d46f9110c5ebbcf07ead1986b4403663e661c65bb445c3a7

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0306/tls/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方朔東方朔者平原厭次人也久在吳中為書師數十年武帝時上書說便宜拜為郎至昭帝時時人或謂聖人或謂凡人作深淺顯默之行或忠言或詼語莫知其旨至宣帝初棄郎以避亂世置幘官舍風飄之而去後見於會稽賣藥五湖智者疑其歲星精也東方奇達混同時俗一龍一蛇豈豫榮辱高韻沖霄不羈不束沉跡五湖騰影暘谷
+  hash: sha256:2c6e186064bd28642ff894a81d8b3002fcbf825ec69966647be6139c3b5f478b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_041-h}
+metadata:
+  title: 列仙傳
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0306.xml
+hash: sha256:9e9e5f070e82a4f16a24131febe02f17b0f84d23fd53d42b3756e51d814dc7f2
