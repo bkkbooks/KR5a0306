@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 方回方回者堯時隱人也堯聘以為閭士煉食雲母亦與民人有病者隱於五柞山中夏啓末為宦士為人所劫閉之室中從求道回化而得去更以方回掩封其戶時人言得回一丸泥塗門戶終不可開方回頤生隱身五柞咀嚼雲英棲心隙漠劫閉幽室重關自廓印改掩封終焉不落
-  hash: sha256:1eac16d4a7a890351b7faf649d5a24486ff3bfe3363174cb1812ec93ca693627
+  text: 方回方回者堯時隱人也堯聘以為閭士煉食雲母亦與民人有病者隱於五柞山中夏啟末為宦士為人所劫閉之室中從求道回化而得去更以方回掩封其戶時人言得回一丸泥塗門戶終不可開方回頤生隱身五柞咀嚼雲英棲心隙漠劫閉幽室重關自廓印改掩封終焉不落
+  hash: sha256:507d57724ea70b032cae357d7859aa98e44117dc97ac03f97a85e8f67a9e3916
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_007-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:cf4fc27275e584f2f9a4ad66db9054576e79384b0b4bc88415b1975be292d9b4
+hash: sha256:6f370ac73762775841127cadbbcce518539d0cb3541e3a9ad6ed2d7c7bacdd9c

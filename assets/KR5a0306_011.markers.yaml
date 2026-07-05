@@ -57,7 +57,6 @@ markers:
   - {type: 'tls:seg', offset: 108, content: '', id: KR5a0306_tls_011-1a.24}
   - {type: punctuation, offset: 112, content: ，, id: KR5a0306_tls_011-bkkpn28}
   - {type: 'tls:seg', offset: 112, content: '', id: KR5a0306_tls_011-1a.25}
-  - {type: substitution, offset: 113, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0018}}
   - {type: punctuation, offset: 114, content: ，, id: KR5a0306_tls_011-bkkpn29}
   - {type: 'tls:seg', offset: 114, content: '', id: KR5a0306_tls_011-1a.26}
   - {type: punctuation, offset: 116, content: 《, id: KR5a0306_tls_011-bkkpn30}
@@ -83,4 +82,4 @@ markers:
   - {type: punctuation, offset: 156, content: 。, id: KR5a0306_tls_011-bkkpn40}
   - {type: xml-element, offset: 156, content: '', id: KR5a0306_tls_011-2a_end}
   back: []
-hash: sha256:0d127d90474bd714adc236966b1e9be2d14f763f4bfa3c103ecfd0c603906927
+hash: sha256:385c035ea84f6fe7e4cb4869ea0e0af40e0bf6b50b4c98c074481a0796ea7ad5

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 琴高琴高者趙人也以鼓琴為宋康王舍人行涓彭之術浮游冀州涿一作碭郡之間二百餘年後辭入涿水中取龍子與諸弟子期曰皆潔齊待於水傍設祠果乘赤鯉來出坐祠中日有萬人觀之留一月餘復入水去琴高晏晏司樂宋宮離世孤逸浮沉涿中出躍赬鱗入藻清衝是任水解其樂無窮
-  hash: sha256:6bd55b661b05e1f36b8f1126380ae12ca67d49ed540d48fd378e40f9bd5344d3
+  text: 琴高琴高者趙人也以鼓琴為宋康王舍人行涓彭之術浮游冀州涿一作碭郡之間二百餘年後辭入涿水中取龍子與諸弟子期曰皆潔齋待於水傍設祠果乘赤鯉來出坐祠中日有萬人觀之留一月餘復入水去琴高晏晏司樂宋宮離世孤逸浮沉涿中出躍赬鱗入藻清衝是任水解其樂無窮
+  hash: sha256:589d764fb3bb02b5d555c14555f7c5980b487b6ff9dc4a946bce270b56f73c6b
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_025-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:4add84d4da760f2ddb2081060156df62bd12db0fef35ff9a74964045ee43b7d1
+hash: sha256:70a5ace3ad757c1624591d80c2fdea6fe6c47467aba1e1811357e58dd00cfefe

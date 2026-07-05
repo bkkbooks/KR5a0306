@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 嘯父嘯父者冀州人也少在西周市上補履數十年人不知也後奇其不老好事者造求其術不能得也唯梁母得其作火法臨上三亮上與梁母別列數十火而升西邑多奉祀之嘯父駐形年衰不邁梁母遇之歷虛啓會丹火翼輝紫煙成蓋眇企升雲抑絶華泰
-  hash: sha256:a9e713cfa48628f805751709c381aea35f3dbf3c2d376d227606b991060b8a5a
+  text: 嘯父嘯父者冀州人也少在西周市上補履數十年人不知也後奇其不老好事者造求其術不能得也唯梁母得其作火法臨上三亮上與梁母別列數十火而升西邑多奉祀之嘯父駐形年衰不邁梁母遇之歷虛啟會丹火翼輝紫煙成蓋眇企升雲抑絕華泰
+  hash: sha256:dfdf56dd6e46c9bf0af141eec2ecf41f79822dd60e574df1e9d0d7ff4ae74220
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_012-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:4d586d9a7b5f0aa68da0b3496c1fb77f68775af4c02fd7e5f144aa75c31af15a
+hash: sha256:1dd90f37524defb03bac87eb9e4c289069d2cd0191dd0acbe16a41d571b2eb6e

@@ -15,7 +15,6 @@ markers:
   - {type: 'tls:seg', offset: 21, content: '', id: KR5a0306_tls_055-1a.5}
   - {type: punctuation, offset: 31, content: ，, id: KR5a0306_tls_055-bkkpn5}
   - {type: 'tls:seg', offset: 31, content: '', id: KR5a0306_tls_055-1a.6}
-  - {type: substitution, offset: 31, original: 僱, replacement: 雇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1295}}
   - {type: punctuation, offset: 33, content: ，, id: KR5a0306_tls_055-bkkpn6}
   - {type: 'tls:seg', offset: 33, content: '', id: KR5a0306_tls_055-1a.7}
   - {type: punctuation, offset: 41, content: ，, id: KR5a0306_tls_055-bkkpn7}
@@ -69,4 +68,4 @@ markers:
   - {type: punctuation, offset: 140, content: 。, id: KR5a0306_tls_055-bkkpn31}
   - {type: xml-element, offset: 140, content: '', id: KR5a0306_tls_055-2a_end}
   back: []
-hash: sha256:4318651c24c0c29a6cdaaadadd4ac3c03e882cc29a1a2e7f981e93b96b0f445c
+hash: sha256:7fa173751b9c90b9fd38e50c7ce9d19af50694f80e3f227f1c08183b4f65254f
