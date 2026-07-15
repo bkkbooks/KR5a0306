@@ -55,7 +55,9 @@ markers:
   - {type: 'tls:seg', offset: 104, content: '', id: KR5a0306_tls_019-2a.7}
   - {type: punctuation, offset: 108, content: ，, id: KR5a0306_tls_019-bkkpn24}
   - {type: 'tls:seg', offset: 108, content: '', id: KR5a0306_tls_019-2a.8}
+  - {type: substitution, offset: 108, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
+  - {type: substitution, offset: 109, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 112, content: 。, id: KR5a0306_tls_019-bkkpn25}
   - {type: xml-element, offset: 112, content: '', id: KR5a0306_tls_019-2a_end}
   back: []
-hash: sha256:b96c0281db5a531bfcb5324d872b5b2a5a14be12117ef4d8c6df7e47ced973b4
+hash: sha256:e74489074ee9051b903cfdc25f576e7c57f5961d23ba8362ca10fc83d0c257af

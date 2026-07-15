@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 邛疏邛疏者周封史也能行氣煉形煮石髓而服之謂之石鐘乳至數百年往來入太室山中有臥石牀枕焉八珍促壽五石延生邛疏得之煉髓餌精人以百年行邁身輕寢息中嶽游步仙庭
-  hash: sha256:f09ea633f406bb133c1c19168c637bebd60edea0cabad2ba850a68cc727dafa7
+  text: 邛疏邛疏者周封史也能行氣煉形煮石髓而服之謂之石鐘乳至數百年往來入太室山中有臥石牀枕焉八珍促壽五石延生邛疏得之煉髓餌精人以百年行邁身輕寢息中嶽遊步仙庭
+  hash: sha256:b3bee54616772a82bab50f5368b245b93415f1699a1005ec47c9c8417de772fb
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_017-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:f8cdfce1b25a504e6b72ac715a1b40a82fce1e8cc4b9c891536d4f932ae24383
+hash: sha256:d59c996c7943e1fc7a240348b6d80b4101ca53113b9ca90fab0052473c71d2dd

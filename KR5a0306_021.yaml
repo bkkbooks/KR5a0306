@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 陸通陸通者雲楚狂接輿也好養生食橐廬木實及蕪菁子游諸名山在蜀峨嵋山上世世見之歷數百年去接輿樂道養性潛輝風諷尼父諭以鳳衰納氣以和存心以微高步靈岳長嘯峨嵋
-  hash: sha256:9c35e9119c6dd91beab919a7d4f5b24ca5dcc3817f4a297664ad66cac8d221c2
+  text: 陸通陸通者雲楚狂接輿也好養生食橐廬木實及蕪菁子遊諸名山在蜀峨嵋山上世世見之歷數百年去接輿樂道養性潛輝風諷尼父諭以鳳衰納氣以和存心以微高步靈嶽長嘯峨嵋
+  hash: sha256:684d77974d6e3a7e9171ca8f05cf6f1814bf87533b752330a6a1719a0a761342
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_021-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:7b7740e1a7beec87443e5196bcda77befd3249480350ec6affaddfddcddbe81c
+hash: sha256:0c583a91a6ee939cab2476a41f6076d2e94bd1c50c320ea5da32b41890f01e78

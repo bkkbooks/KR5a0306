@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 毛女毛女者字玉姜在華陰山中獵師世世見之形體生毛自言秦始皇宮人也秦壞流亡入山避難遇道士谷春教食松葉遂不饑寒身輕如飛百七十餘年所居岩中有鼓琴聲云婉孌玉姜與時遁逸真人授方餐松秀實因敗獲成延命深吉得意岩岫寄歡琴瑟
-  hash: sha256:d20c05e0fff10599eb6cdb2c06d362616ca649804c50e7c5a1769dfcd185ae1e
+  text: 毛女毛女者字玉薑在華陰山中獵師世世見之形體生毛自言秦始皇宮人也秦壞流亡入山避難遇道士谷春教食松葉遂不飢寒身輕如飛百七十餘年所居岩中有鼓琴聲云婉孌玉薑與時遁逸真人授方餐松秀實因敗獲成延命深吉得意岩岫寄歡琴瑟
+  hash: sha256:8360e328a4e229618288a006704794bef2080833f06e995b57d531110a67e668
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_053-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:6f91248a5b5dcb9ea4a600390d13b25b96ccd53cabeea80f09746bd199b1d8a7
+hash: sha256:3a3068c56d00124fe16f6e9fbdf139d1a9c97d18eaacf4f74bd4f30f933c079a

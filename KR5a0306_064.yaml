@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 黃阮丘黃阮丘者睢山上道士也衣裘披髮耳長七寸口中無齒日行四百里於山上種蔥薤百餘年人不知也時下賣藥朱璜發明之乃知其神人也地動山崩道絕預戒下人世共奉祠之蔥藹岩嶺實棲若人被裘散髮輕步絕倫含道養生妙觀通神發驗朱璜告遍下民
-  hash: sha256:93bfe8536ea56372620c030802a5334a6cf7fe2e1b4fc75564a4bc489a75fc91
+  text: 黃阮丘黃阮丘者睢山上道士也衣裘披髮耳長七寸口中無齒日行四百里於山上種蔥薤百餘年人不知也時下賣藥朱璜發明之乃知其神人也地動山崩道絶預戒下人世共奉祠之蔥藹岩嶺實棲若人被裘散髮輕步絶倫含道養生妙觀通神發驗朱璜告遍下民
+  hash: sha256:7e1b7575d4cf80cc3bf36b9bd42724fc5821895e7431d35abb94dc20fa86befe
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_064-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:6600b14ce5edebe7ffd84ed11edeefa701cd46ab6919c91bdbab9ec8a8fb15d7
+hash: sha256:7b97553fe94cdd5cbd87967db21cad9b4e518f76068264d1d6eddb2e2168a7ed

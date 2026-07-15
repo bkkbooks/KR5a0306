@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 介子推介子推者姓王名光晉人也隱而無名悅趙成子與游旦有黃雀在門上晉公子重耳異之與出居外十餘年勞苦不辭及還介山伯子常晨來呼推曰可去矣推辭母入山中從伯子常游後文公遣數千人以玉帛禮之不出後三十年見東海邊為王俗賣扇後數十年莫知所在王光沉默享年遐久出翼霸君處契玄友推祿讓勤何求何取遯影介山浪跡海右
-  hash: sha256:2744f9ab5a748a7ce6f363625a2ccc49b1de37ecba2e9c3d0c8ae8a2a9dde3e2
+  text: 介子推介子推者姓王名光晉人也隱而無名悅趙成子與遊旦有黃雀在門上晉公子重耳異之與出居外十餘年勞苦不辭及還介山伯子常晨來呼推曰可去矣推辭母入山中從伯子常遊後文公遣數千人以玉帛禮之不出後三十年見東海邊為王俗賣扇後數十年莫知所在王光沉默享年遐久出翼霸君處契玄友推祿讓勤何求何取遁影介山浪迹海右
+  hash: sha256:2cb1b1bfb250f36902f896ddebe530c1f7990524c4d78bdf273a93daa122302d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_018-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:d1a93cf98351494ee0dfa41eba80df740cb7fd2bd21a27d6ed835aa36bfc6498
+hash: sha256:aa023e66a2cdecdac344dc49bdd8575486faecb0ca814f0895bf39f36e1bc54a

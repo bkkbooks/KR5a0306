@@ -13,6 +13,7 @@ markers:
   - {type: 'tls:seg', offset: 16, content: '', id: KR5a0306_tls_038-1a.4}
   - {type: punctuation, offset: 22, content: 。, id: KR5a0306_tls_038-bkkpn4}
   - {type: 'tls:seg', offset: 22, content: '', id: KR5a0306_tls_038-1a.5}
+  - {type: substitution, offset: 22, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: punctuation, offset: 26, content: ，, id: KR5a0306_tls_038-bkkpn5}
   - {type: 'tls:seg', offset: 26, content: '', id: KR5a0306_tls_038-1a.6}
   - {type: punctuation, offset: 30, content: 。, id: KR5a0306_tls_038-bkkpn6}
@@ -68,4 +69,4 @@ markers:
   - {type: punctuation, offset: 128, content: 。, id: KR5a0306_tls_038-bkkpn31}
   - {type: xml-element, offset: 128, content: '', id: KR5a0306_tls_038-2a_end}
   back: []
-hash: sha256:19c1cdfb06c0589c464d3bee1a9aaf258b75b67ce0f8a3b378cfe6d0f8b470f0
+hash: sha256:8e7ba2db982f08d6d720d750c0a13a936463a17c8f923d03230e90e96997676c

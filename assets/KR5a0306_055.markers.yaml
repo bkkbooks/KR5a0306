@@ -15,6 +15,7 @@ markers:
   - {type: 'tls:seg', offset: 21, content: '', id: KR5a0306_tls_055-1a.5}
   - {type: punctuation, offset: 31, content: ，, id: KR5a0306_tls_055-bkkpn5}
   - {type: 'tls:seg', offset: 31, content: '', id: KR5a0306_tls_055-1a.6}
+  - {type: substitution, offset: 31, original: 僱, replacement: 雇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17527}}
   - {type: punctuation, offset: 33, content: ，, id: KR5a0306_tls_055-bkkpn6}
   - {type: 'tls:seg', offset: 33, content: '', id: KR5a0306_tls_055-1a.7}
   - {type: punctuation, offset: 41, content: ，, id: KR5a0306_tls_055-bkkpn7}
@@ -51,6 +52,7 @@ markers:
   - {type: xml-element, offset: 108, content: '', id: KR5a0306_tls_055-1a_end}
   - {type: xml-element, offset: 108, content: '', id: KR5a0306_tls_055-2a}
   - {type: 'tls:seg', offset: 108, content: '', id: KR5a0306_tls_055-2a.1}
+  - {type: substitution, offset: 110, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 112, content: ，, id: KR5a0306_tls_055-bkkpn24}
   - {type: 'tls:seg', offset: 112, content: '', id: KR5a0306_tls_055-2a.2}
   - {type: punctuation, offset: 116, content: 。, id: KR5a0306_tls_055-bkkpn25}
@@ -68,4 +70,4 @@ markers:
   - {type: punctuation, offset: 140, content: 。, id: KR5a0306_tls_055-bkkpn31}
   - {type: xml-element, offset: 140, content: '', id: KR5a0306_tls_055-2a_end}
   back: []
-hash: sha256:7fa173751b9c90b9fd38e50c7ce9d19af50694f80e3f227f1c08183b4f65254f
+hash: sha256:27d2147ea5d0ebb7800f39f5cfcd46990e8ff3623c692e64531a0bd93d5ccf50

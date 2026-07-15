@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 關令尹關令尹喜者周大夫也善內學常服精華隱德修行時人莫知老子西遊喜先見其氣知有真人當過物色而遮之果得老子老子亦知其奇為著書授之後與老子俱游流沙化胡服苣勝實莫知其所終尹喜亦自著書九篇號曰關令子尹喜抱關含德為務挹漱日華仰玩玄度候氣真人介焉獨悟俱濟流沙同歸妙處
-  hash: sha256:8a490a74c6cf7cd68655ee68a016e21100e204eb865c535ce93ce49921d8cd07
+  text: 關令尹關令尹喜者周大夫也善內學常服精華隱德修行時人莫知老子西遊喜先見其氣知有真人當過物色而遮之果得老子老子亦知其奇為著書授之後與老子俱遊流沙化胡服苣勝實莫知其所終尹喜亦自著書九篇號曰關令子尹喜抱關含德為務挹漱日華仰玩玄度候氣真人介焉獨悟俱濟流沙同歸妙處
+  hash: sha256:a4891a171f0955e465dc5d1d3fcd5061ef604fd14aaf4cbc91600a50cc06de24
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_009-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:364548ebdf323b3b27b08c56b72326f0b8cc5ab315242f4bbf2bb5f163d38f19
+hash: sha256:5d78eed79d0c627f5a54430d753ecbfeae8a6e889f8e38b9d4caf52df2563ac8

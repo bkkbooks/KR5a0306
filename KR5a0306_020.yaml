@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 平常生谷城鄉平常生者不知何所人也數死復生時人以為不然後大水出所害非一而平輒在缺門山頭大呼言平常生在此雲復水雨五日必止止則上山求祠之但見平衣帔革帶後數十年復為華陰門卒谷城妙匹譎達奇逸出生入死不恒其質玄化忘形貴賤奚恤暫降塵汙終騰雲室
-  hash: sha256:fb8d0f703b84308333aa612b76453d014b75b0bdcb47272ee927139eb1e5024a
+  text: 平常生谷城鄉平常生者不知何所人也數死復生時人以為不然後大水出所害非一而平輒在缺門山頭大呼言平常生在此雲復水雨五日必止止則上山求祠之但見平衣帔革帶後數十年復為華陰門卒谷城妙匹譎達奇逸出生入死不恆其質玄化忘形貴賤奚恤暫降塵汙終騰雲室
+  hash: sha256:ddd528e6b959a1c47deb890b553c1ed27ab0613130615ed07482eaacfd6fbe61
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_020-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:464e61dfe18a0babf3384eba900fb79b26631e3191ebc47c0f2dbd66c484752b
+hash: sha256:01981c7f565f2ffda7a714f58917b3e4e3d262bac3c63611bdef89af7b331735

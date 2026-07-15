@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 任光任光者上蔡人也善餌丹賣於都市里間積八十九年乃知是故時任光也皆說如數十歲面顏後長老識之趙簡子聘與俱歸常在桓梯山上三世不知所在晉人常服其丹也上蔡任光能煉神丹年涉期頤曄爾朱顏頃適趙子縱任所安升軌桓梯高飛雲端
-  hash: sha256:2ba24acbeb05dc456555aea0b9a13793aaca96c42b2ff9bccfe7ee48238540bc
+  text: 任光任光者上蔡人也善餌丹賣於都市里間積八十九年乃知是故時任光也皆説如數十歲面顏後長老識之趙簡子聘與俱歸常在桓梯山上三世不知所在晉人常服其丹也上蔡任光能煉神丹年涉期頤曄爾朱顏頃適趙子縱任所安升軌桓梯高飛雲端
+  hash: sha256:de60692095e8673bd70d2f6fa39ee0eaade340226741a79355b1e4cce3f0437d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5a0306_tls_033-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5a0306.xml
-hash: sha256:fe299e68bf9d2ee1b9751b19bdc2bd783eea91b3d3afd50ad395549863a197a8
+hash: sha256:5c01f37bf7e09973d5b41646102145ecc8fb22ea67af2ad6d7c38e2f44cff702
